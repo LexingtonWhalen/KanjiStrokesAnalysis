@@ -1,6 +1,6 @@
 # KanjiStrokesAnalysis
 
-## Analyzing Stroke Counts in Kanji.
+## Analyzing the Most Frequent Stroke Counts in Kanji.
 
 ## :cinema: Video:
 * 
@@ -29,5 +29,5 @@
 
 
 ###### :hammer: To do:
-* 
+* Play around more with plot-fitting. See if you can try to find the mean / std of the plot that was fitted in the video!
 
