@@ -3,7 +3,7 @@
 ## Analyzing the Most Frequent Stroke Counts in Kanji.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/wuXPPO2vNgU
 
 ## :grey_question: What is it?
 * I was interested in what the average complexity of a Kanji, defined by the number of strokes used.
